@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\fabia\source\repos\Mapper\Mapper\main.cpp(16,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Code wird generiert.
+  1 of 152 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  Mapper.vcxproj -> C:\Users\fabia\source\repos\Mapper\Release\Mapper.exe
